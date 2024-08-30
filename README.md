@@ -8,7 +8,7 @@ The model used for classification is trained using the Natural Language Toolkit 
 To set up the project locally, follow these steps:
 
 1. Clone the repository:
-  git clone  https://github.com/srus1608/SMS-Spam-predictor.git
+  git clone  https://github.com/shreechate/SMS-Spam-predictor.git
 2. Install the required dependencies:
    pip install -r requirements.txt
 3. Run the Flask web application:
